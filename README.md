@@ -1,6 +1,6 @@
 # Castling_Squad
-techfest_hackathon 
-Survey Pro
+# Techfest_hackathon 
+# Survey Pro </br>
 A survey is a research method used for collecting data from a predefined group of respondents to gain information and insights into various topics of interest. They can have multiple purposes, and researchers can conduct it in many ways depending on the methodology chosen and the study’s goal
 This project proposes a "survey poll" to keep track of the people’s choices and thinking and contains information in the database about the certain issue or trending news. 
 
